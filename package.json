@@ -21,8 +21,5 @@
     "nodemon": "^2.0.2",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
-  },
-  "engines": {
-    "node": "13.5.x"
   }
 }
